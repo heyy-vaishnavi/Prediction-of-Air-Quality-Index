@@ -4,8 +4,10 @@
 This project involves predicting the Air Quality Index (AQI) using a Random Forest Regressor. The model utilizes various air quality parameters to estimate AQI values, aiming to provide accurate and actionable insights into air quality.
 
 *Dataset*
-The dataset used in this project includes the following columns:
+The dataset used in this project is based on the AQIs of major cities of India.
+Duration: January 1 2015 to July 1 2020.
 
+Parameters included:
 PM2.5: Particulate Matter less than 2.5 micrometers
 PM10: Particulate Matter less than 10 micrometers
 NO: Nitric Oxide
