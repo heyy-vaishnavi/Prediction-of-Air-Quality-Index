@@ -45,3 +45,5 @@ Predict AQI: Use the model to predict AQI values for new input data.
 Model Improvement: Explore additional features or alternative models to further improve performance.
 Cross-Validation: Perform cross-validation for a more robust performance evaluation.
 Real-World Application: Adapt the model for real-time predictions and integrate it with air quality monitoring systems.
+
+![air_pollution_standards_cpcb](https://github.com/user-attachments/assets/36c71b84-87ac-4a28-a1d2-6e596f895d64)
